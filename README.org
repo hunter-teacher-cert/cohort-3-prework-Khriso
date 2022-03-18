@@ -1,5 +1,5 @@
-* Last name:Khristopher
-* First name:Oursler
+* Last name:Oursler
+* First name:Khristopher
 * Github username:Khriso
 
 * Instructions:
